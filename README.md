@@ -1,1 +1,1 @@
-# Boston-Housing-Kaggle-Challenge-with-Linear-Regression
+# California-Housing-with-Linear-Regression
